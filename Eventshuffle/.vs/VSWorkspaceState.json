@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Eventshuffle.Api",
+    "\\Eventshuffle.Api\\Utils",
+    "\\Eventshuffle.Application\\DTOs",
+    "\\Eventshuffle.Infra\\Data",
+    "\\Eventshuffle.Infra\\Migrations",
+    "\\Eventshuffle.Infra\\Repositories"
+  ],
+  "SelectedNode": "\\Eventshuffle.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

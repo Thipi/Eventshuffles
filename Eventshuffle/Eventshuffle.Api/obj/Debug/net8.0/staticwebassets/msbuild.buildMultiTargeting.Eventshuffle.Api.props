@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eventshuffle.Api.props" />
+</Project>

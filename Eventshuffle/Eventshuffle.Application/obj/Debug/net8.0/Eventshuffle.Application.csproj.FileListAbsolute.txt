@@ -1,0 +1,17 @@
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\bin\Debug\net8.0\Eventshuffle.Application.deps.json
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\bin\Debug\net8.0\Eventshuffle.Application.runtimeconfig.json
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\bin\Debug\net8.0\Eventshuffle.Application.dll
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\bin\Debug\net8.0\Eventshuffle.Application.pdb
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\bin\Debug\net8.0\Eventshuffle.Domain.dll
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\bin\Debug\net8.0\Eventshuffle.Domain.pdb
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.csproj.AssemblyReference.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.AssemblyInfoInputs.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.AssemblyInfo.cs
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshu.78C27D2D.Up2Date
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.dll
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\refint\Eventshuffle.Application.dll
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.pdb
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\Eventshuffle.Application.genruntimeconfig.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\Eventshuffle.Application\obj\Debug\net8.0\ref\Eventshuffle.Application.dll

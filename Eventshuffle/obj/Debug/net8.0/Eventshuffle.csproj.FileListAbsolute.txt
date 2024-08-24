@@ -1,0 +1,7 @@
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.csproj.AssemblyReference.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.AssemblyInfoInputs.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.AssemblyInfo.cs
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.csproj.CoreCompileInputs.cache
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tipii\Documents\Projects\Futurice\Eventshuffle\Eventshuffle\obj\Debug\net8.0\Eventshuffle.MvcApplicationPartsAssemblyInfo.cache
