@@ -2580,11 +2580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Domain\\Eventshuffle.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Domain\\Eventshuffle.Domain.csproj",
       "projectName": "Eventshuffle.Domain",
-      "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Domain\\Eventshuffle.Domain.csproj",
+      "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Domain\\Eventshuffle.Domain.csproj",
       "packagesPath": "C:\\Users\\Tipii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

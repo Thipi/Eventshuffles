@@ -3091,11 +3091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Api\\Eventshuffle.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Api\\Eventshuffle.Api.csproj",
       "projectName": "Eventshuffle.Api",
-      "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Api\\Eventshuffle.Api.csproj",
+      "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Api\\Eventshuffle.Api.csproj",
       "packagesPath": "C:\\Users\\Tipii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Api\\obj\\",
+      "outputPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3117,11 +3117,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Application\\Eventshuffle.Application.csproj": {
-              "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Application\\Eventshuffle.Application.csproj"
+            "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Application\\Eventshuffle.Application.csproj": {
+              "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Application\\Eventshuffle.Application.csproj"
             },
-            "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Infra\\Eventshuffle.Infra.csproj": {
-              "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Infra\\Eventshuffle.Infra.csproj"
+            "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Infra\\Eventshuffle.Infra.csproj": {
+              "projectPath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Infra\\Eventshuffle.Infra.csproj"
             }
           }
         }

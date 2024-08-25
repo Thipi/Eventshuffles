@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCRjUx68KPPrpSp1WRIMpGWyJyHh97QMzdWJ5kmr22dLIui7CfNo4o0TFUwKcHdEvqz0t+4nFiRqt5BMVlCvtQ==",
+  "dgSpecHash": "zGef2z3GDNkUs09uaUOo2UfefpHFUIiBAONfPDhS2dXQvApNNLwhtBbRNCwnmtq2cXfsmheHQQ8EGAaJz26pdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffle\\Eventshuffle\\Eventshuffle.Application\\Eventshuffle.Application.csproj",
+  "projectFilePath": "C:\\Users\\Tipii\\Documents\\Projects\\Futurice\\Eventshuffles\\Eventshuffle\\Eventshuffle.Application\\Eventshuffle.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tipii\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Tipii\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
