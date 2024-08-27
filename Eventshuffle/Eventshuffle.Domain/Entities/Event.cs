@@ -1,7 +1,7 @@
 
 using System.ComponentModel.DataAnnotations;
 
-namespace Eventshuffle.src.Eventshuffle.Domain.Entities
+namespace Eventshuffle.Domain.Entities
 {
     public class Event
     {

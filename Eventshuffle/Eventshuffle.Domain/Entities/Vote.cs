@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace Eventshuffle.src.Eventshuffle.Domain.Entities
+namespace Eventshuffle.Domain.Entities
 {
     public class Vote
     {

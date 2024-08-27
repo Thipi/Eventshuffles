@@ -1,4 +1,5 @@
 using Eventshuffle.Application;
+using Eventshuffle.Application.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 

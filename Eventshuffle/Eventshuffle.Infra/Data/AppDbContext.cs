@@ -1,4 +1,4 @@
-using Eventshuffle.src.Eventshuffle.Domain.Entities;
+using Eventshuffle.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Eventshuffle.Infrastructure.Data
