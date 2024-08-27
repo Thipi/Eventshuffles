@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventshuffle.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8be445f8cfee959f9cebc73ef23b7d443c46b18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventshuffle.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventshuffle.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-using Eventshuffle.src.Eventshuffle.Domain.Entities;
+using Eventshuffle.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;

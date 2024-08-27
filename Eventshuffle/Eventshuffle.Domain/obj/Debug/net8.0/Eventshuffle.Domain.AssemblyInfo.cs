@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventshuffle.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+978223f0412440a9a1844d1978a7d282ba7ea519")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8be445f8cfee959f9cebc73ef23b7d443c46b18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventshuffle.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventshuffle.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

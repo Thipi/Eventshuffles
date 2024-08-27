@@ -1,5 +1,5 @@
 ﻿
-using Eventshuffle.src.Eventshuffle.Domain.Entities;
+using Eventshuffle.Domain.Entities;
 
 namespace Eventshuffle.Domain.Interfaces
 {

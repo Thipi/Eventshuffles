@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Eventshuffle.Application
+namespace Eventshuffle.Application.DTOs
 {
     public class CreateEventRequest
     {

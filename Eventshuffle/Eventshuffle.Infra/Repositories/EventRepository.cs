@@ -1,6 +1,6 @@
 ﻿using Eventshuffle.Domain.Interfaces;
 using Eventshuffle.Infrastructure.Data;
-using Eventshuffle.src.Eventshuffle.Domain.Entities;
+using Eventshuffle.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;

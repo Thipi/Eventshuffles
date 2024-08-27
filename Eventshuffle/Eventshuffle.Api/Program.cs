@@ -20,10 +20,6 @@ builder.Services.AddControllers()
          options.JsonSerializerOptions.Converters.Add(new InputDateTimeConverter());
      });
 
-void AddJsonOptions(Action<object> value)
-{
-    throw new NotImplementedException();
-}
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -55,3 +51,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+public partial class Program { }
